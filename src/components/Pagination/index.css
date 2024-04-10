@@ -1,0 +1,9 @@
+.pagination-container {
+  align-items: center;
+  justify-content: center;
+}
+
+.page-no {
+  align-self: center;
+  margin: 6px;
+}

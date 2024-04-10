@@ -1,0 +1,12 @@
+.movie-name-container {
+  max-width: 300px;
+}
+
+.details-container {
+  padding: 48px;
+  display: flex;
+}
+.image {
+  max-width: 200px;
+  margin-right: 24px;
+}
